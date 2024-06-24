@@ -54,5 +54,7 @@ The model achieved a low MAE of approximately $1,863.94, indicating accurate pre
 **TV Advertising Correlation:** TV advertising showed a stronger correlation with sales compared to Radio and Newspaper.
 
 **Predictability of Advertising Spend:** TV advertising spend reliably increased sales, whereas Radio and Newspaper effects were less predictable.
+
 **Model Performance:** The linear regression model achieved an R-squared value of 0.89, suggesting a strong fit and significant explanatory power, especially for TV advertising.
+
 **Objective Fulfillment:** The project successfully identified impactful advertising channels, providing actionable insights for marketing spend optimization. Focusing on TV advertising can lead to better sales outcomes.
